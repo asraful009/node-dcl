@@ -1,0 +1,13 @@
+{
+  "name": "dcl",
+  "version": "0.0.1",
+  "main": "app.js",
+  "author": "pavel",
+  "license": "MIT",
+  "scripts": {
+    "dev": "dcl start --web3"
+  },
+  "dependencies": {
+    "decentraland-ecs": "^6.8.0"
+  }
+}
